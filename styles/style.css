@@ -208,7 +208,7 @@ main {
 }
 
 .card_type_film {
-  background-image: url(../images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -220,7 +220,7 @@ main {
 }
 
 .card_type_picture {
-  background-image: url(../images/card-lot-03.jpg);
+  background-image: url(../images/card-lot-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
